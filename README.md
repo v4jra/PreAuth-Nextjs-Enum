@@ -26,6 +26,6 @@ Focus: /_next/static assets, /_next/data/<buildId> probes, conservative director
 
 1. Clone repository:
 ```bash
-git clone https://github.com/<your-username>/PreAuth-Nextjs-Enum.git
+git clone https://github.com/v4jra/PreAuth-Nextjs-Enum.git
 cd PreAuth-Nextjs-Enum
 chmod +x prelogin_enum.sh post_enum_probe.sh
