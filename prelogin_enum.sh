@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # prelogin_enum.sh — safe pre-login enumeration for Next.js/Vercel sites
-# Usage: ./prelogin_enum.sh https://dashboard.conversailabs.com
+# Usage: ./prelogin_enum.sh https://abc.example.com
 # WARNING: non-destructive but run only on authorized targets.
 
 set -euo pipefail
